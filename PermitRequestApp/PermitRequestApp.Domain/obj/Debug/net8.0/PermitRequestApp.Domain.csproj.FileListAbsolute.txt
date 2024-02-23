@@ -1,0 +1,11 @@
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\bin\Debug\net8.0\PermitRequestApp.Domain.deps.json
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\bin\Debug\net8.0\PermitRequestApp.Domain.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\bin\Debug\net8.0\PermitRequestApp.Domain.pdb
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\PermitRequestApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\PermitRequestApp.Domain.AssemblyInfoInputs.cache
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\PermitRequestApp.Domain.AssemblyInfo.cs
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\PermitRequestApp.Domain.csproj.CoreCompileInputs.cache
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\PermitRequestApp.Domain.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\refint\PermitRequestApp.Domain.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\PermitRequestApp.Domain.pdb
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Domain\obj\Debug\net8.0\ref\PermitRequestApp.Domain.dll

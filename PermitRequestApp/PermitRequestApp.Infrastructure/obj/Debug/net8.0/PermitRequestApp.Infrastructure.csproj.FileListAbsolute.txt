@@ -1,0 +1,17 @@
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\bin\Debug\net8.0\PermitRequestApp.Infrastructure.deps.json
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\bin\Debug\net8.0\PermitRequestApp.Infrastructure.runtimeconfig.json
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\bin\Debug\net8.0\PermitRequestApp.Infrastructure.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\bin\Debug\net8.0\PermitRequestApp.Infrastructure.pdb
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\bin\Debug\net8.0\PermitRequestApp.Domain.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\bin\Debug\net8.0\PermitRequestApp.Domain.pdb
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.csproj.AssemblyReference.cache
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.AssemblyInfoInputs.cache
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.AssemblyInfo.cs
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.csproj.CopyComplete
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\refint\PermitRequestApp.Infrastructure.dll
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.pdb
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\PermitRequestApp.Infrastructure.genruntimeconfig.cache
+C:\PermitRequestApp\PermitRequestApp\PermitRequestApp.Infrastructure\obj\Debug\net8.0\ref\PermitRequestApp.Infrastructure.dll
